@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   <meta charset="UTF-8" />
+   <title>GameJs Test Suite</title>
+   <link rel="stylesheet" href="../utils/qunit/qunit.css" type="text/css" media="screen">
+   <script type="text/javascript" src="../utils/qunit/qunit.js"></script>
+   <script type="text/javascript" src="../utils/qunit/qunit-close-enough.js"></script>
+   <script type="text/javascript" src="../utils/qunit/qunit-canvas.js"></script>
+   <script>
+      qModule = module;
+   </script>
+   <script type="text/javascript" src="../utils/yabbler/yabble.js"></script>
+   <script type="text/javascript" src="../gamejs-2.0.3-pre.js"></script>
+    <script>
+        require.setModuleRoot('./');
+        require.run('main')
+    </script>
+</head>
+<body>
+   <!-- for testing the unit tests it's sometimes convinient to have a canvas present to
+        output images -->
+   <canvas id="gjs-canvas" width=800 height=600></canvas>
+   <audio id="sound-fixture" src="./sound-fixture.wav"></audio>
+   <h1 id="qunit-header">GameJs Test Suite</h1>
+   <h2 id="qunit-banner"></h2>
+   <div id="qunit-testrunner-toolbar"></div>
+   <h2 id="qunit-userAgent"></h2>
+   <ol id="qunit-tests"></ol>
+</body>
+</html>

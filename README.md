@@ -1,4 +1,12 @@
-# APT@FIREROOT.TK
+# Disclaimer
+
+TELEGRAM: @fireroothacker
+
+EMAIL ME: root@fireroothacker.tk
+
+TOR MAIL: fireroothacker@gtfcy37qyzor7kb6blz2buwuu5u7qjkycasjdf3yaslibkbyhsxub4yd.onion
+
+This repository is for research purposes only, the use of this code is your responsibility.
 
 I previously had a number of years working experiences in multiple areas, about internet network, DNS&Domain, Design&Director. Currently, I am keen on travelling around the world and "discovery", "exploration", "comprehend", "perceive". If you have some audacious thoughts, please let me know too.
 

@@ -2,7 +2,7 @@
 
 TELEGRAM: @fireroothacker
 
-EMAIL ME: root@fireroothacker.tk
+EMAIL ME: root@fireroothacker.tk /// snake@darkwebspider.ga
 
 TOR MAIL: fireroothacker@gtfcy37qyzor7kb6blz2buwuu5u7qjkycasjdf3yaslibkbyhsxub4yd.onion
 
